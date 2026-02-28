@@ -37,8 +37,7 @@ ________________________________________
 •	Click Process
 
  <img width="973" height="445" alt="image" src="https://github.com/user-attachments/assets/a9850864-4149-49cb-b38c-c696844f4c09" />
-
-________________________________________
+_________________________________
 2.	Automatic Summary
    
 After processing:
@@ -54,8 +53,7 @@ After processing:
 Previous chat history is cleared when a new document is processed.
 
  <img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/25bd4190-ed61-4ad0-a491-04e8f97f7afa" />
-
-________________________________________
+_____________________________________
 3.	Ask Questions & Chat with Memory
    
 Type your question and click Send.
@@ -77,11 +75,8 @@ The app:
 •	Allows follow-up questions
 
 Each document has its own isolated session.
-
-
  <img width="974" height="449" alt="image" src="https://github.com/user-attachments/assets/3a95d11e-06d8-4ce5-ae2a-4d5bd653dc5b" />
-
-________________________________________
+__________________________________
 4.	Switch Model Anytime
    
 You can change:
@@ -98,10 +93,8 @@ This allows:
 
 •	Easy model comparison without restarting the app
 
-
  <img width="975" height="447" alt="image" src="https://github.com/user-attachments/assets/9cd59300-437d-482c-98f9-7980cbf950e9" />
-
-________________________________________
+_________________
 ## Architecture (Simple View)
 
 

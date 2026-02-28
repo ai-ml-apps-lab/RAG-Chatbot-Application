@@ -4,15 +4,10 @@ This project is a Retrieval-Augmented Generation (RAG) application built using t
 It allows users to:
 
 •	Paste text or upload a document
-
 •	Automatically generate a summary
-
 •	Ask questions about the document
-
 •	Chat with contextual memory
-
 •	Switch models and adjust temperature dynamically
-
 
 It is a Generative AI application implementing a modular and session-based RAG pipeline. Like other RAG applications, this is a document-based LLM system with customizable options to configure model responses.
 ________________________________________

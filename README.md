@@ -104,6 +104,7 @@ This allows:
 ________________________________________
 ## Architecture (Simple View)
 
+
 Document → Embeddings → Vector Index → RAG Session → LLM Response
 
 Main components:
@@ -118,6 +119,7 @@ Main components:
 
 ________________________________________
 ## Installation
+
 
 git clone https://github.com/ai-ml-apps-lab/RAG-Chatbot-Application
 

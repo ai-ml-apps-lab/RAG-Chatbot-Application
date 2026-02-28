@@ -1,4 +1,4 @@
-RAG Chatbot Application
+# RAG Chatbot Application
 This project is a Retrieval-Augmented Generation (RAG) application built using the LlamaIndex framework and OpenAI models.
 It allows users to:
 •	Paste text or upload a document
